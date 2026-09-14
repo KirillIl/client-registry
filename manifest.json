@@ -1,0 +1,10 @@
+{
+  "name": "Реестр клиентов",
+  "short_name": "Клиенты",
+  "start_url": "./reestr-klientov.html",
+  "display": "standalone",
+  "background_color": "#EFEDE5",
+  "theme_color": "#1E2A38",
+  "orientation": "portrait",
+  "icons": []
+}
